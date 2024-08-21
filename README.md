@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/secrjd/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+  <a href="jeremiah@secrist.xyz">
   <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff">
 </div>
+</a>
 <div>
 <h2>Operating Systems</h2>
 
